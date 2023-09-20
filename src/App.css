@@ -386,13 +386,20 @@ body{
 }
 
 .mi-div2{
-  background-image: url('/public/bg2.png'); /* Cambia la ruta a la imagen */
+  background-image: url('/public/black-bg.jpg'); /* Cambia la ruta a la imagen */
+  background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el div */
+  background-position: center; /* Centra la imagen en el div */
+}
+
+.mi-div3{
+  background-image: url('/public/profit-bg.jpg'); /* Cambia la ruta a la imagen */
   background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el div */
   background-position: center; /* Centra la imagen en el div */
 }
 
 .mi-degradado{
-  background: linear-gradient(360deg, #140993 0%, #5E57D4 100%);
+  /* background: linear-gradient(360deg, #140993 0%, #5E57D4 100%); */
+  background-color: #454183;
 
 }
 

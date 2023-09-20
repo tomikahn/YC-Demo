@@ -12,11 +12,11 @@ const RealState = () => {
                     <h1 className='text-[40px] text-gray100 text-left px-8'>Get started with just $10.</h1>
                 </div>
                 <div className='w-full h-[48%] mi-degradado flex flex-col justify-center rounded-[12px]'>
-                    <h1 className='text-[28px] text-gray200 text-left px-8'>Our goal</h1>
+                    <h1 className='text-[24px] text-gray200 text-left px-8'>Our goal</h1>
                     <h1 className='text-[36px] text-gray100 text-left px-8'>Make real estate investments accessible</h1>
                 </div>
             </div>
-            <div className='flex flex-col w-[62%] h-[100%] bg-[#E8EAEE] flex flex-col px-20 justify-center rounded-[12px]'>
+            <div className='flex flex-col w-[62%] h-[100%] mi-div3 flex flex-col px-20 justify-center rounded-[12px]'>
                 <h1 className='text-gray700 text-[50px]'>Discover.</h1>
                 <h1 className='text-gray700 text-[50px]'>Diversify.</h1>
                 <h1 className='text-gray700 text-[50px]'>Earn profits.</h1>

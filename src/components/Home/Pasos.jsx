@@ -18,8 +18,8 @@ const Pasos = () => {
                 <div className='flex items-center justify-center rounded-full w-[40px] h-[40px] bg-gray500 mb-4'>
                     <h1 className='text-gray100 text-[24px]'>2</h1>
                 </div>
-                <h1 className='text-left text-gray500 text-[30px]'>Verification</h1>
-                <h1 className='text-left text-gray400 text-[24px]'>Easy registration in a few steps.</h1>
+                <h1 className='text-left text-gray500 text-[30px]'>Explore Properties</h1>
+                <h1 className='text-left text-gray400 text-[24px]'>Discover tokenized properties available for investment.</h1>
             </div>
             <div className='flex flex-col justify-center items-start bg-[#DAE1EF] h-full w-[24%] rounded-[20px] px-10'>
                 <div className='flex items-center justify-center rounded-full w-[40px] h-[40px] bg-gray500 mb-4'>
